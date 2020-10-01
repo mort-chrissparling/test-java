@@ -24,7 +24,7 @@ Added more
  * 
  * GoCardless will notify you via a [webhook](#appendix-webhooks) whenever the status of a mandate
  * changes. 
- */
+ */ 
 public class customer {
     private final HttpClient httpClient;
     private final HttpClient firstName;
