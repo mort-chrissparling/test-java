@@ -40,7 +40,7 @@ public class MandateService {
         this.httpClient = httpClient;
     }
 
-    /**
+    /** 
      * Creates a new mandate object.
      */
     public MandateCreateRequest create() {
