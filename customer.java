@@ -28,5 +28,6 @@ Added more
 public class customer {
     private final HttpClient httpClient;
     private final HttpClient firstName;
+    private String address;
 
 }
