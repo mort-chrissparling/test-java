@@ -27,7 +27,9 @@ Added more
  */
 public class MandateService {
     private final HttpClient httpClient;
-    private final HttpClient firstName;
+    private final String firstName;
+    private final String lastName;
+
 
     /**
      * Constructor.  Users of this library should have no need to call this - an instance
