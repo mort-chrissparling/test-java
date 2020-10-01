@@ -34,6 +34,7 @@ public class MandateService {
     /**
      * Constructor.  Users of this library should have no need to call this - an instance
      * of this class can be obtained by calling
+     * 
       {@link com.gocardless.GoCardlessClient#mandates() }.
      */
     public MandateService(HttpClient httpClient) {
