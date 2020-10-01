@@ -13,6 +13,10 @@ import com.google.common.collect.ImmutableMap;
 import com.google.gson.annotations.SerializedName;
 import com.google.gson.reflect.TypeToken;
 
+/*
+Added more
+*/
+
 /**
  * Service class for working with mandate resources.
  *
