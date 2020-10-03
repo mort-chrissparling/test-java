@@ -18,6 +18,7 @@ Added more
 */
 
 /**
+ * Some changes here
  * Service class for working with mandate resources.
  *
  * Mandates represent the Direct Debit mandate with a [customer](#core-endpoints-customers).
