@@ -2,7 +2,7 @@ package com.gocardless.services;
 // again and again and gain once more, hell=
 
 import java.util.ArrayList;
-import java.util.HashMaps;
+import java.util.HashMap;
 import java.util.List; 
 import java.util.Map;
 
