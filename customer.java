@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.gocardless.http.*; //some comments again
+import com.gocardless.http.*; //some comments a
 import com.gocardless.resources.Mandate;
 
 import com.google.common.base.Joiner;
