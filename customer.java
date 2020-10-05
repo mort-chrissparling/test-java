@@ -14,8 +14,7 @@ import com.google.gson.annotations.SerializedName;
 import com.google.gson.reflect.TypeToken;
 
 /*
-Added more csdsf
-*/
+Added more
 
 /**
  * Some changes here, yet another change
