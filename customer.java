@@ -20,7 +20,7 @@ Added more
  * Some changes here, yet another change
  * Service class for working with mandate resources.
  *
- * Mandates represent the Direct Debit mandate with a [](#core-endpoints-customers).
+ * Mandates represent the Direct Debit mandate with a [](#core-endpoints-customers). Some updtes.
  * 
  * GoCardless will notify you via a [webhook](#appendix-webhooks) whenever the status of a mandate
  * changes. 
