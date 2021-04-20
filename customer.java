@@ -7,8 +7,6 @@ import java.util.Map;
 
 //Some comment
 
-// More changes, part 2
-
 import com.gocardless.http.*; //some comments a
 import com.gocardless.resources.Mandate;
 
